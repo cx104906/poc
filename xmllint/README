@@ -1,0 +1,1 @@
+./xmllint --valid --dtdattr --stream poc
